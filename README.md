@@ -1,29 +1,39 @@
-# unit-testing-vue
+# Course of Vue Mastery - unit-testing-vue
+
+[Unit Testing Course Here](https://www.vuemastery.com/courses/unit-testing/)
 
 ## Project setup
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 yarn serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 yarn build
 ```
 
 ### Run your unit tests
+
 ```
 yarn test:unit
 ```
 
 ### Lints and fixes files
+
 ```
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Turn on Json Server
+
+```
+json-server --watch db.json
+```
